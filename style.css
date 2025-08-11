@@ -310,7 +310,7 @@ a {
   padding: 5px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
   .logo h1{
     font-size: 15px;
 }
